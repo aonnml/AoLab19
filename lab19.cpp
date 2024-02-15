@@ -1,7 +1,5 @@
 // Please include header (lab21.h) here.
-#include<lab19.h>
-#include<cstdlib>
-#include<ctime>
+#include "lab19.h"
 
 int main(){
 	srand(time(0));
